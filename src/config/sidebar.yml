@@ -1,0 +1,32 @@
+# Sidebar navigation
+
+- label: 'Home'
+  link: '/'
+- label: Section 1
+  items:
+    - label: 'Page 1'
+      link: '/section-1/page-1'
+    - label: 'Page 2'
+      link: '/section-1/page-2'
+    - label: 'Page 3'
+      link: '/section-1/page-3'
+    - label: 'Page 4'
+      link: '/section-1/page-4'
+- label: Section 2
+  items:
+    - label: 'Page 1'
+      link: '/section-2/page-1'
+    - label: 'Page 2'
+      link: '/section-2/page-2'
+    - label: 'Page 3'
+      link: '/section-2/page-3'
+    - label: 'Page 4'
+      link: '/section-2/page-4'
+- label: More
+  items:
+    - label: About
+      link: /about
+    - label: Contact
+      link: /contact
+    - label: 'External Link'
+      link: https://github.com/rocketseat/gatsby-themes
