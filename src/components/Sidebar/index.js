@@ -54,8 +54,8 @@ export default function Sidebar({ isMenuOpen }) {
     <Container isMenuOpen={isMenuOpen}>
       <BioContainer>
         <BioIcon/>
-        <h2>John Doe</h2>
-        <p>Lorem ipsum dolor sit amet</p>
+        <h2>Mainak Nistala</h2>
+        <p>Short Bio</p>
       </BioContainer>
       <nav>
         <List>
