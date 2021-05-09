@@ -8,9 +8,9 @@
       link: '/strength-training/warmup'
     - label: 'Lower Body Strength'
       link: '/strength-training/lower-body-strength'
-    - label: 'Page 3'
+    - label: 'Upper Body Strength'
       link: '/strength-training/page-3'
-    - label: 'Page 4'
+    - label: 'Stretches'
       link: '/strength-training/page-4'
 - label: Section 2
   items:
