@@ -13,6 +13,15 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `@rocketseat/gatsby-theme-docs`,
+      options: {
+        configPath: `src/config`,
+        docsPath: `src/docs`,
+        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
+        baseDir: `examples/gatsby-theme-docs`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Rocketseat Gatsby Themes`,
