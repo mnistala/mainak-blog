@@ -2,7 +2,8 @@
 
 - label: 'Home'
   link: '/'
-- label: Strength Training
+- label: 'Strength Training'
+  link: '/strength-training/st-all'
   items:
     - label: 'Warmup'
       link: '/strength-training/warmup'

@@ -55,7 +55,7 @@ export default function Sidebar({ isMenuOpen }) {
       <BioContainer>
         <BioIcon/>
         <h2>Mainak Nistala</h2>
-        <p>Short Bio</p>
+        <p>I am a high school student and Table Tennis player base in Mumbai.  I’ve been playing since I was 8 and compete at various levels. Table Tennis is a big part of my life, so I started this blog to teach students world over table tennis skills from beginners to advance. </p>
       </BioContainer>
       <nav>
         <List>
