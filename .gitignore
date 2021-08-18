@@ -35,6 +35,8 @@ build/Release
 # Dependency directories
 node_modules/*
 !node_modules/@rocketseat/
+!node_modules/@emotion/
+!node_modules/emotion-theming/
 jspm_packages/
 
 # Typescript v1 declaration files
