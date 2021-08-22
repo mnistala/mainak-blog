@@ -2,6 +2,20 @@
 
 - label: 'Home'
   link: '/'
+- label: Table Tennis
+  items:
+    - label: 'Forehand'
+      link: '/TT-training/TT-FH-all'
+    - label: 'Backhand'
+      link: '/TT-training/TT-BH-all'
+    - label: 'Sequences'
+      link: '/TT-training/TT-Seq-all'
+    - label: 'Flick'
+      link: '/TT-training/TT-Flick-all'
+    - label: 'Attack'
+      link: '/TT-training/TT-Attack-all'
+    - label: 'Defense'
+      link: '/TT-training/TT-Defense-all'
 - label: Strength Training
   items:
     - label: 'All Strength Trainings'
