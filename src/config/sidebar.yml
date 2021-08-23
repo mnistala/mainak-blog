@@ -42,5 +42,3 @@
   items:
     - label: Contact
       link: /contact
-    - label: 'External Link1'
-      link: https://github.com/rocketseat/gatsby-themes
